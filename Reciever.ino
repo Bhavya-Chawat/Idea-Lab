@@ -8,8 +8,8 @@
 #include <ESP32Servo.h>
 
 // Wi-Fi credentials
-char ssid[] = "MARUTHI 4001";
-char pass[] = "maruthi4001";
+char ssid[] = "Username";
+char pass[] = "Password";
 
 // Blynk virtual pins
 #define BLYNK_MANUAL_VPIN V3
